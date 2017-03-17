@@ -267,12 +267,12 @@ ol { list-style: none outside none; }
 
 .divas-navigation span.divas-prev {
 	left: 1em;
-	background: url("../images/prev.svg") no-repeat top center rgba(0, 0, 0, 0);
+	background: url("https://grayspade.github.io/misc-repo/prev.svg") no-repeat top center rgba(0, 0, 0, 0);
 }
 
 .divas-navigation span.divas-next {
 	right: 1em;
-	background: url("../images/next.svg") no-repeat top center rgba(0, 0, 0, 0);
+	background: url("https://grayspade.github.io/misc-repo/next.svg") no-repeat top center rgba(0, 0, 0, 0);
 }
 
 @media screen and (max-width: 40em) {
